@@ -1,19 +1,95 @@
-# Getting Started
-Install the dependencies and run the project
+# World’s Most Annoying Cook 🍳😈
+
+A fun, experimental front-end project built with **HTML, CSS, and JavaScript**, bundled using **Vite**.  
+The goal of this project is to practice DOM manipulation, events, and basic project structure — while having a bit of fun with animations and assets.
+
+---
+
+## 🚀 Features
+
+- Interactive UI powered by vanilla JavaScript
+- Custom styling with CSS
+- Media assets (images, GIFs, SVGs)
+- Fast development environment using Vite
+- Simple and readable project structure
+
+---
+
+## 🛠️ Built With
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Vite
+
+---
+
+## 📁 Project Structure
+
 ```
+├── images/
+│   ├── bugatti.jpg
+│   ├── loading.svg
+│   └── pirate.gif
+├── index.html
+├── index.css
+├── index.js
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ▶️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/worlds-most-annoying-cook.git
+cd worlds-most-annoying-cook
+```
+
+### 2. Install dependencies
+```bash
 npm install
-npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+### 3. Run the development server
+```bash
+npm run dev
+```
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Then open the local URL shown in your terminal (usually `http://localhost:5173`).
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+## 🎯 Purpose
+
+This project is part of my learning journey in front-end development.  
+It focuses on:
+- JavaScript event handling
+- Working with assets
+- Structuring a small web project
+- Getting comfortable with modern tooling (Vite)
+
+---
+
+## 📌 Future Improvements
+
+- Add more interactive behavior
+- Improve animations and transitions
+- Refactor JavaScript for better readability
+- Mobile responsiveness
+
+---
+
+## 🧑‍💻 Author
+
+Created by **Konstantinos Angelopoulos**  
+Learning front-end development one annoying cook at a time 😄
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License.
